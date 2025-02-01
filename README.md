@@ -4,9 +4,17 @@
 
 <div>
 <h3>Onde me encontrar:</h3>
-<a href="https://www.linkedin.com/in/jfsog" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-<a href="https://github.com/jfsog" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>  
-<a href = "mailto:felipe.sg21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/jfsog" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</a>  
+<a href="https://wa.me/5591993237424" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo">
+</a>  
+<a href = "mailto:felipe.sg21@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</a>  
+
+
 </div>  
 <p>  
 
@@ -43,3 +51,4 @@
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jfsog&layout=compact&theme=radical&locale=pt-br" alt="jfsog"/>
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=jfsog&show_icons=true&locale=en&theme=radical" alt="jfsog"/>
 </div>
+
